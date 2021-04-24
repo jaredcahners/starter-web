@@ -2,6 +2,8 @@
 
 ##Introduction
 
+Just trying to figure shit out
+
 ##Purpose
 
 ##Deployment

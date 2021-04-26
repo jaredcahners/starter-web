@@ -2,7 +2,7 @@
 
 ##Introduction
 
-Just trying to figure shit out. More changes during rebasing.
+Just trying to figure shit out. Some dumb fix during stash.
 
 ##Purpose
 

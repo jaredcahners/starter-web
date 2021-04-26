@@ -13,3 +13,8 @@ STAGED!
 I mean UNSTAGED!
 
 ##How to Contribute
+
+
+###Copyright
+
+yada blah

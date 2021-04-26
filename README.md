@@ -6,7 +6,7 @@ Just trying to figure shit out
 
 ##Purpose
 
-STAGED!
+STAGED! That means its not.
 
 ##Deployment
 

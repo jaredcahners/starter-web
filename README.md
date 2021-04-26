@@ -2,7 +2,7 @@
 
 ##Introduction
 
-Just trying to figure shit out
+Just trying to figure shit out. More changes during rebasing. 
 
 ##Purpose
 

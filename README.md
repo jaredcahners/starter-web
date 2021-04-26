@@ -14,6 +14,8 @@ I mean UNSTAGED!
 
 ##How to Contribute
 
+Don't be a cunt
+
 
 ###Copyright
 

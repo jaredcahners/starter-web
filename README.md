@@ -2,7 +2,7 @@
 
 ##Introduction
 
-Just trying to figure shit out. More changes during rebasing. 
+Just trying to figure shit out. More changes during rebasing.
 
 ##Purpose
 
@@ -19,4 +19,4 @@ Don't be a cunt
 
 ###Copyright
 
-yada blah
+yada blah. All rights reserved.
